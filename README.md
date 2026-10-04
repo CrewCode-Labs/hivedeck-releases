@@ -1,12 +1,12 @@
-# CrewCode installers
+# HiveDeck installers
 
-Download the latest CrewCode from [Releases](../../releases/latest). The app opens only with a beta access code from [crewcode.io](https://crewcode.io).
+Download the latest HiveDeck from [Releases](../../releases/latest). The app opens only with a beta access code from [hivedeck.app](https://hivedeck.app).
 
 | Platform | File |
 |---|---|
-| Windows | `CrewCode-Setup.exe` |
-| macOS, Apple silicon | `CrewCode-mac-arm64.dmg` |
-| macOS, Intel | `CrewCode-mac-x64.dmg` |
-| Linux | `CrewCode.AppImage` or `crewcode.deb` |
+| Windows | `HiveDeck-Setup.exe` |
+| macOS, Apple silicon | `HiveDeck-mac-arm64.dmg` |
+| macOS, Intel | `HiveDeck-mac-x64.dmg` |
+| Linux | `HiveDeck.AppImage` or `hivedeck.deb` |
 
 This repository holds installers only. The source is private.
